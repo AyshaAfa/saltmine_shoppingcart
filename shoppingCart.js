@@ -103,3 +103,5 @@ async function input() {
 }
 
 input();//this is the entry point of code
+
+module.exports = { addToCart, getAllProducts, taxCalculation, grandTotal };
