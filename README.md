@@ -23,7 +23,7 @@ Write some code that provides the following basic shopping cart capabilities:
 
 ## Price API
 
-The price API is an HTTP service that returns the price details for a product, identified by it's name. The shopping cart should integrate with the price API to retrieve product prices. 
+The price API is an HTTP service that returns the price details for a product, identified by it's name. The shopping cart should integrate with the price API to retrieve product prices.
 
 ### Price API Service Details
 
